@@ -1,16 +1,17 @@
+Português:
+## Olá a todos 👋
+
+- Estou atualmente trabalhando como Técnico em TI;
+
+- Atualmente estou estudando com:
+    Python, SQL;
+    Biblitecas em Python: Seaborn e Matplotlib;
+  
+English:
 ## Hi there 👋
 
-<!--
-**alexandrekowa/alexandrekowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently working on IT Technician;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently learning:
+    Python, SQL, data analysis;
+    Librarys (Python): Seaborn and Matplotlib;
