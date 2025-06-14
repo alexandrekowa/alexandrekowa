@@ -1,4 +1,4 @@
-Português:
+#Português:
 ## Olá a todos 👋
 
 - Estou atualmente trabalhando como Técnico em TI;
@@ -6,8 +6,9 @@ Português:
 - Atualmente estou estudando com:
     Jupyter Notebook, Python, SQL;
     Biblitecas em Python: Seaborn e Matplotlib;
-  
-English:
+
+
+#English:
 ## Hi there 👋
 
 - I’m currently working on IT Technician;
