@@ -4,7 +4,7 @@ Português:
 - Estou atualmente trabalhando como Técnico em TI;
 
 - Atualmente estou estudando com:
-    Python, SQL;
+    Jupyter Notebook, Python, SQL;
     Biblitecas em Python: Seaborn e Matplotlib;
   
 English:
