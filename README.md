@@ -1,5 +1,5 @@
 #Português:
-## Olá a todos 👋
+## Olá a todos, bem-vindos ao meu portfólio! 👋
 
 - Estou atualmente trabalhando como Técnico em TI;
 
@@ -9,10 +9,10 @@
 
 
 #English:
-## Hi there 👋
+## Hi there, welcome to my portfolio! 👋
 
 - I’m currently working on IT Technician;
 
 - I’m currently learning:
-    Python, SQL, data analysis;
+    Jupyter Notebook, Python, SQL;
     Librarys (Python): Seaborn and Matplotlib;
