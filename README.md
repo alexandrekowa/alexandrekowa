@@ -1,18 +1,10 @@
 #Português:
 ## Olá a todos, bem-vindos ao meu portfólio! 👋
 
-- Estou atualmente trabalhando como Técnico em TI;
-
-- Atualmente estou estudando com:
-    Jupyter Notebook, Python, SQL;
-    Biblitecas em Python: Seaborn e Matplotlib;
+Aqui adiciono meus trabalhos e projetos pessoais, para adiquirir conhecimento e aprender técnicas e ferramentas;
 
 
 #English:
 ## Hi there, welcome to my portfolio! 👋
 
-- I’m currently working on IT Technician;
-
-- I’m currently learning:
-    Jupyter Notebook, Python, SQL;
-    Librarys (Python): Seaborn and Matplotlib;
+Here is where I add my works and personal projects, to expands my knowledge of tools and techniques;
